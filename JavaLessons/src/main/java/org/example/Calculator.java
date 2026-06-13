@@ -1,6 +1,13 @@
 package org.example;
 
 public class Calculator {
+    public void assvoid(){
+    }
+
+    public String ass() {
+        return "bigass";
+    };
+
     public int add(int x, int y) {
         return x + y;
     }
